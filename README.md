@@ -1,5 +1,3 @@
-# Hi there, I'm Adnan Hassan 👋
-
 <div align="center">
 
 ### 💻 Full Stack Developer | MERN Stack Enthusiast | B.Tech IT Student
