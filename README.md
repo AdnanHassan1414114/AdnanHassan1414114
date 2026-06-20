@@ -1,207 +1,128 @@
-## Hi there 👋
-
-<!--
-**AdnanHassan1414114/AdnanHassan1414114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-
-<h1>Hi there, I'm Adnan 👋</h1>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+RAG+Systems+Builder;C%2B%2B+%7C+Node.js+%7C+React+Developer;Always+building+something+new" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<p>
-  ⚡ Building AI-powered full-stack apps with real-world impact<br>
-  🧠 Specialized in RAG Architecture, Vector Search & Semantic Retrieval<br>
-  🚀 10+ Projects shipped across Web, AI & Systems Programming
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=azhanhashmi&label=Profile%20views&color=000000&style=for-the-badge" />
-</p>
-
-<br/>
-
-<!-- Socials -->
-<p>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=azhanhashmi788@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/Azhanhashmi"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/azhanhashmi/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
-
-<br/>
-
-<!-- Tech Stack -->
-<h3>🛠️ Tech Stack</h3>
-
-<h4>Languages</h4>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<h4>Frontend</h4>
-<p>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
-
-<h4>Backend & AI</h4>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Architecture-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_Search-000000?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-</p>
-
-<h4>Database & Tools</h4>
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-<br/>
-
-<!-- Featured Projects -->
-<h3>🚀 Featured Projects</h3>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>AI Assistant Vector Engine</b></td>
-    <td align="center"><b>Am I Hireable?</b></td>
-    <td align="center"><b>InceptaX</b></td>
-  </tr>
-  <tr>
-    <td align="center">Full-stack AI assistant with a custom C++ HNSW vector search engine & Node.js backend for fast semantic RAG retrieval.</td>
-    <td align="center">Brutally honest AI tool that scans your GitHub + LeetCode and tells you if you're actually hireable in India. No sugarcoating.</td>
-    <td align="center">Production-grade hackathon platform where developers tackle real-world challenges, submit repos & receive detailed AI evaluations.</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Azhanhashmi/ai-assistant-vector-engine"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Azhanhashmi/am-i-hireable"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-      <a href="https://am-i-hireable.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Azhanhashmi/InceptaX"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-      <a href="https://inceptax.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>Candidate Dashboard</b></td>
-    <td align="center"><b>E-Commerce Platform</b></td>
-    <td align="center"><b>Hirely</b></td>
-  </tr>
-  <tr>
-    <td align="center">AI-powered candidate evaluation dashboard with intelligent screening and real-time analytics.</td>
-    <td align="center">Full-featured e-commerce platform with product listings, cart management, and a seamless checkout experience.</td>
-    <td align="center">Clean and minimal job board built with React.js & Tailwind CSS, fetching real-time IT job listings by category and location.</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Azhanhashmi/Candidate-dashboard"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-      <a href="https://candidate-dashboard-ai.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Azhanhashmi/E-commerce-platform"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-      <a href="https://shopforever.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Azhanhashmi/Hirely"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>Crypto Tracker</b></td>
-    <td align="center"><b>CINEX</b></td>
-    <td align="center"><b>Memory Card Game</b></td>
-  </tr>
-  <tr>
-    <td align="center">React cryptocurrency tracker fetching live market data with coin details and interactive price charts.</td>
-    <td align="center">JavaScript-powered cinema experience platform with dynamic content and modern UI.</td>
-    <td align="center">Interactive memory card game with randomized shuffling, move counter, score tracking and match detection.</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Azhanhashmi/Crypto-tracker"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-      <a href="https://crypto-tracker-live-one.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Azhanhashmi/CINEX"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-      <a href="https://cinex-eta.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Azhanhashmi/Memory-Remember-Game"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-      <a href="https://brainmatch.netlify.app/"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Stats -->
-<h3>📊 GitHub Stats</h3>
+# Hi there, I'm Adnan Hassan 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azhanhashmi&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azhanhashmi&layout=compact&card_width=320&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" height="150" />
+
+### 💻 Full Stack Developer | MERN Stack Enthusiast | B.Tech IT Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New" alt="Typing SVG" />
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=azhanhashmi&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=azhanhashmi&theme=dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true" height="150" />
-</div>
+---
+
+## 🚀 About Me
+
+* 🎓 B.Tech Information Technology Student
+* 💻 Passionate about Full Stack Web Development
+* ⚛️ Building applications using React, Node.js, Express & MongoDB
+* 🌱 Currently learning System Design, Backend Architecture & AI
+* 🚀 Love building real-world projects that solve practical problems
+* 📍 India
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
+![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge\&logo=express)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+
+### Database & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏆 InceptaX
+
+A hackathon platform where developers participate in challenges, submit repositories, and receive AI-powered evaluations.
+
+### 🤖 AI Hireability Analyzer
+
+Analyzes GitHub profiles and coding activity to provide hiring insights and improvement suggestions.
+
+### 💰 Crypto Tracker
+
+Real-time cryptocurrency tracker with market data, charts, and detailed coin information.
+
+### 🛒 E-Commerce Platform
+
+Full-stack e-commerce application featuring authentication, product management, cart functionality, and checkout.
+
+### 💼 Hirely
+
+Modern job board application built using React that displays real-time job opportunities.
+
+### 🏗️ Mountain Infrastructure Website
+
+Professional company website developed for a construction startup during internship work.
+
+### 💬 Real-Time Chat Application
+
+Chat application using Socket.IO for real-time communication.
+
+### 🎮 Memory Card Game
+
+Interactive JavaScript game with scoring, move tracking, and card matching mechanics.
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=AdnanHassan1414114\&show_icons=true\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanHassan1414114\&layout=compact\&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdnanHassan1414114\&theme=tokyonight)
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Backend Development
+* System Design
+* Redis
+* Docker
+* AI Integrations
+* Scalable Web Applications
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/AdnanHassan1414114
+* LinkedIn: Add Your LinkedIn URL
+* Email: Add Your Email
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy building projects that help me learn new technologies while solving real-world problems.
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azhanhashmi&theme=react-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true" height="300" />
-</div>
 
-<br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azhanhashmi/Azhanhashmi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Azhanhashmi/Azhanhashmi/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Azhanhashmi/Azhanhashmi/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-<br/>
-
-🌱 Currently learning **RAG Architecture & Backend Frameworks**
-📫 Contact me at **[azhanhashmi788@gmail.com](mailto:azhanhashmi788@gmail.com)**
+⭐ Thanks for visiting my profile!
 
 </div>
